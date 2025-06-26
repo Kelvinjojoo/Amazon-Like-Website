@@ -38,7 +38,7 @@ All features are designed to reflect a real-world shopping experience.
 
 ## 📷 Screenshots
 
-![Homepage](images/amazon_homepage.png)
+![Cart](images/amazon_homepage.png)
 ![Cart](images/amazon_cart.png)
 ![Orders](images/amazon_orders.png)
 ![Track](images/amazon_track.png)
